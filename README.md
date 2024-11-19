@@ -90,17 +90,19 @@ The YOLOv5 architecture is used for real-time object detection. YOLOv5 is highly
 
 ## Chapter 4: Results
 
+
 ### Screenshots
 
 ![Result 4](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_4.jpeg)
   
 ![Result 6](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_6.jpeg)
 
+![Results](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/Results%20.png)
 ### Test Cases
 
 Test cases were executed to ensure that the system provides accurate recommendations based on the ingredients detected in the images. The precision and recall curves for the model are shown below:
 ![F1 Score](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/f1_score.png)
-![Results](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/Results%20.png)
+
 
 ## Chapter 5: Conclusion
 
