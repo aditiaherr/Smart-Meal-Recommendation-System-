@@ -17,15 +17,6 @@ The dataset consists of 94 food ingredients, annotated and labeled using the Rob
 3. [Module Description](#module-description)
 4. [Results](#results)
 5. [Conclusion](#conclusion)
-6. [References](#references)
-7. [Plagiarism Report](#plagiarism-report)
-
-## Screenshots
-
-Here are some screenshots from the project:
-
-- ![Result 4](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_4.jpeg)
-- ![Result 6](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_6.jpeg)
 
 ## Chapter 1: Introduction
 
@@ -84,7 +75,7 @@ The dataset consists of 94 different food ingredients, each annotated using Robo
 
 ### Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/Block%20Diagram.png)
 
 1. **User Interface**: Allows users to capture images and interact with the system.
 2. **Image Capture**: Captures real-time images of ingredients.
@@ -95,27 +86,23 @@ The dataset consists of 94 different food ingredients, each annotated using Robo
 
 ### System Architecture
 
-![System Architecture](images/system_architecture.png)
-
 The YOLOv5 architecture is used for real-time object detection. YOLOv5 is highly efficient, fast, and capable of detecting objects with high accuracy. The system leverages YOLOv5’s feature extraction capabilities using CSPDarknet53 and PANet to achieve better detection results.
 
 ## Chapter 4: Results
 
 ### Screenshots
 
-- ![Result 4](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_4.jpeg)
-- ![Result 6](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_6.jpeg)
+![Result 4](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_4.jpeg)
+  
+![Result 6](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/result_6.jpeg)
 
 ### Test Cases
 
 Test cases were executed to ensure that the system provides accurate recommendations based on the ingredients detected in the images. The precision and recall curves for the model are shown below:
-
-- ![Recall-Confidence Curve](images/recall_curve.png)
-- ![Precision-Confidence Curve](images/precision_curve.png)
-- ![Precision-Recall Curve](images/precision_recall_curve.png)
+![F1 Score](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/f1_score.png)
+![Results](https://github.com/aditiaherr/Smart-Meal-Recommendation-System-/blob/main/Results%20.png)
 
 ## Chapter 5: Conclusion
 
 This project successfully demonstrates the use of YOLO for real-time food ingredient detection and recipe suggestion. It provides a practical solution for meal planning and reduces food waste by encouraging users to cook based on the ingredients they already have. Future work can include adding nutritional information and supporting dietary preferences.
-
 
